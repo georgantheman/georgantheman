@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently working on Customer Churn Prediction from Kaggle, using Logistic Regression, Random Forest, and XGBoost
+
 <!--
 **georgantheman/georgantheman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
